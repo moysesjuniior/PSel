@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<title>Sweet Home</title>
+<title>Logout</title>
 <meta charset="UTF-8"/>
 <link rel="stylesheet" href="css/style.css"/>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

@@ -9,10 +9,11 @@
 <body>
 <?php
 require_once "includes/banco.php";
-require_once "include/login.php";
+require_once "includes/login.php";
 require_once "includes/funcoes.php";
 ?>
 <div id="corpo">
 </div>
+<?php require_once "rodape.php"; ?>
 </body>
 </html>
